@@ -1,0 +1,7 @@
+name: uhc-color
+version: '1.0'
+author: fitzche
+main: fr.fitzche.uhc_color.Main
+commands:
+  color:
+    description: color multifonctionnel
